@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "357853915273",
+    "firebase_url": "https://fir-chatapp-1d8f3.firebaseio.com",
+    "project_id": "fir-chatapp-1d8f3",
+    "storage_bucket": "fir-chatapp-1d8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357853915273:android:a252116334b75a44",
+        "android_client_info": {
+          "package_name": "in.blogspot.thejavedsalat.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "357853915273-6sus13atjnefo0d3egrv9urr26oigu2q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.blogspot.thejavedsalat.firebasechatapp",
+            "certificate_hash": "7ac73269d2692495495ca5915e7280571fc1f6e4"
+          }
+        },
+        {
+          "client_id": "357853915273-pm2avj9mv6779i7cp9r863ue4dq2q361.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkKvksaxC_UqdwRvcaQFeDDB7REh4Yt8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "357853915273-pm2avj9mv6779i7cp9r863ue4dq2q361.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
